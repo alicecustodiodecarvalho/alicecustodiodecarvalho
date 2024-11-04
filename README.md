@@ -5,5 +5,5 @@ Acredito que a colaboração é essencial para o sucesso de qualquer projeto, e 
 
 Sinta-se à vontade para entrar em contato ou conferir meu portfólio!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,bootstrap,react,nodejs,express,prisma,mysql,npm,git,godot,figma,vscode,windows,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,bootstrap,react,nodejs,express,prisma,mysql,npm,git,figma,vscode,windows,linkedin)](https://skillicons.dev)
 
